@@ -106,8 +106,9 @@ A = R * K * LS * C * P
 
 ## **📚 References**  
 1. Wischmeier, W.H., & Smith, D.D. (1978). *Predicting Rainfall Erosion Losses*. USDA Handbook 537.  
-2. Renard, K.G., et al. (1997). *Predicting Soil Erosion by Water: A Guide to Conservation Planning with RUSLE*.  
-3. Google Earth Engine Docs: [https://developers.google.com/earth-engine/](https://developers.google.com/earth-engine/)  
+2. Renard, K.G., et al. (1997). *Predicting Soil Erosion by Water: A Guide to Conservation Planning with RUSLE*.
+3. Salhi, A., El Hasnaoui, Y., Pérez Cutillas, P. et al. Soil erosion and hydroclimatic hazards in major African port cities: the case study of Tangier. Sci Rep 13, 13158 (2023).[https://doi.org/10.1038/s41598-023-40135-3](https://doi.org/10.1038/s41598-023-40135-3) 
+4. Google Earth Engine Docs: [https://developers.google.com/earth-engine/](https://developers.google.com/earth-engine/)  
 
 ---
 
